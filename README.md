@@ -21,8 +21,7 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=hamzaadalmis&theme=darcula&hide_border=true&background=FFFFFF00">
 
   <br>
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=hamzaadalmis&repo=ytdx">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=hamzaadalmis&repo=pixel-weather">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=hamzaadalmis&repo=bugzonegames.com">
   <br>
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaadalmis&show_icons=true&theme=dark&locale=en&layout=compact" alt="hamzaadalmis" /></p>
