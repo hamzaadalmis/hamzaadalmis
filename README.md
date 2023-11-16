@@ -2,16 +2,10 @@
 
 ## About Me
 
-<table>
-	<tr>
-	<td valign="center">
-		🎓 I am currently pursuing my **Bachelor's in Computer Engineering**.
-		🌱 I am currently developing **mobile video games**.
-		🎯 My Goal is to Contribute to as many **open source project** as possible.
-		✨ I love to create different types of **contents** and learning different kind of topics.
-	</td>
-	</tr>
-</table>
+	- I am currently pursuing my **Bachelor's in Computer Engineering**.
+	- I am currently developing **mobile video games**.
+	- My Goal is to Contribute to as many **open source project** as possible.
+	- I love to create different types of **contents** and learning different kind of topics.
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=hamzaadalmis&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
@@ -22,10 +16,10 @@
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=hamzaadalmis&repo=bugzonegames.com">
   <br>
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaadalmis&show_icons=true&theme=dark&locale=en&layout=compact" alt="hamzaadalmis" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaadalmis&show_icons=true&theme=dark&locale=en&layout=compact" alt="hamzaadalmis" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzaadalmis&show_icons=true&theme=dark&locale=en" alt="hamzaadalmis" /></p>
-    <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a></p>
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=hamzaadalmis&show_icons=true&theme=dark&locale=en" alt="hamzaadalmis" /></p>
+    <a href="https://www.buymeacoffee.com/hamzaadalmis"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="hamzaadalmis" /></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
